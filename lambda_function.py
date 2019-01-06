@@ -120,7 +120,7 @@ class CatchAllExceptionHandler(AbstractExceptionHandler):
 
 ##################################
 ###       Custom Skill        ####
-### Scan Servers w/ Inspector ####
+###       Gather Servers      ####
 ##################################
 
 class GatherServersIntentHandler(AbstractRequestHandler):
